@@ -28,7 +28,7 @@ h1.Header {
   margin: 0;
 }
 
-h2.Subheader {
+h3.Subheader {
   font-size: 26px;
   margin: 0;
 }
@@ -55,5 +55,7 @@ button.CTAButton {
 div.ImageWrapper {
   flex: 1;
   height: 100%;
-  padding: 64px;
+
+  padding: 16px 32px;
+  background-color: #ddd;
 }

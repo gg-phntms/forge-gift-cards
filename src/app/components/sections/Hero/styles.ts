@@ -14,7 +14,7 @@ export const Header = styled("h1", {
   css: css.Header,
 });
 
-export const Subheader = styled("h2", {
+export const Subheader = styled("h3", {
   css: css.Subheader,
 });
 
