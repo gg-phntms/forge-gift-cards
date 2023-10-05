@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+
+  font-family: var(--font-inter);
+
+  background-color: #eee;
+  color: #222;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
