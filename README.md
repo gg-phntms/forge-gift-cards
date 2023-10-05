@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a brochure website template based on this video: https://www.youtube.com/watch?v=WgXU7XAZYmQ
 
 ## Getting Started
 

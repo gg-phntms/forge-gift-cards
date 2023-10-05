@@ -1,0 +1,36 @@
+nav.NavbarWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  height: 64px;
+
+  padding: 16px 32px;
+
+  // background-color: white;
+
+  display: flex;
+  align-items: center;
+}
+
+div.LogoWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin-right: auto;
+}
+
+ul.Links {
+  display: flex;
+  gap: 16px;
+  list-style-type: none;
+
+  font: 14px var(--jb-mono);
+
+  li:hover {
+    text-decoration: underline;
+    text-underline-offset: 6px;
+  }
+}

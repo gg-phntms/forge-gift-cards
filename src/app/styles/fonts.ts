@@ -2,14 +2,14 @@ import { Inter } from "next/font/google";
 import { JetBrains_Mono } from "next/font/google";
 
 export const INTER = Inter({
-  variable: "--font-inter",
+  variable: "--inter",
   weight: ["400", "700", "900"],
   subsets: ["latin"],
   fallback: ["sans-serif"],
 });
 
 export const JB_MONO = JetBrains_Mono({
-  variable: "--font-jb-mono",
+  variable: "--jb-mono",
   weight: ["400", "700"],
   subsets: ["latin"],
   fallback: ["mono"],
